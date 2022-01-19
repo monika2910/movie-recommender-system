@@ -12,7 +12,7 @@ This is content based recommender system,so  created Tags  based on genres , key
  fetch the movie poster -- url = "https://api.themoviedb.org/3/movie/{}?api_key=83181b0d813a3cff0139b45b7ec28295&language=en-US".format(
         movie_id).
         
- <img src="https://github.com/monika2910/movie-recommender-system/blob/main/Image/output1.png"  width="900" height="500"  /><br><br>
+ <img src="https://github.com/monika2910/movie-recommender-system/blob/main/output1.png"  width="900" height="500"  /><br><br>
         
         
 
